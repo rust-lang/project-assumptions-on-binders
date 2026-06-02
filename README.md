@@ -30,7 +30,7 @@ If you'd like to participate be sure to check out the relevant stream on [zulip]
 yourself over there and ask us any questions you have.
 
 [chat-link]: https://rust-lang.zulipchat.com/#narrow/channel/606332-t-types.2Fassumptions-on-binders
-[team-toml]: https://github.com/rust-lang/team/blob/master/teams/project-assumptions-on-binders.toml
+[team-toml]: https://github.com/rust-lang/team/blob/main/teams/assumptions-on-binders.toml
 
 ## Building Documentation
 This repository is also an mdbook project. You can view and build it using the
