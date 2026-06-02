@@ -1,0 +1,9 @@
+[book]
+authors = ["Assumptions on Binders Project Group Members"]
+language = "en"
+src = "."
+title = "Assumptions on Binders Project Group"
+
+[output.html]
+no-section-label = true
+git-repository-url = "https://github.com/rust-lang/project-assumptions-on-binders"
