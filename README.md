@@ -16,7 +16,7 @@ repository we use to organise our work. Please refer to our [charter] as well
 as our [github pages website][gh-pages] for more information on our goals and
 current scope.
 
-[gh-pages]: https://rust-lang.github.io/project-assumptios-on-binders
+[gh-pages]: https://rust-lang.github.io/project-assumptions-on-binders
 
 [charter]: ./CHARTER.md
 
